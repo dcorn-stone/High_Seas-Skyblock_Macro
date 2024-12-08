@@ -5,6 +5,7 @@
 A Macro made for skyblock farming(basically auto farming tool).
 
 **Set up**
+
 1.Install python
 
 2.Open terminal and navigate to your working directory
