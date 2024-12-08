@@ -24,9 +24,12 @@ For Mac/Linux:
   pip install -r requirements.txt
 or
   pip3 install -r requirements.txt
+  
+6.The program is now ready to start, click on the Farming_Macro.py file to start it.
 
-6.After finished
+7.After finished,type this command to deactivate the virtual environment:
   deactivate
+  
 
 
 **Instructions**
