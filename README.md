@@ -7,7 +7,7 @@ A Macro made for skyblock farming(basically auto farming tool).
 **Instructions**
 Time before the macro starts(seconds):
   The time before this program to start(set a time for yourself to get ready, otherwise it will be a mess).
-  # If the program doesn't respond after you have pressed the start button, it's normal, because thie value is time that the program needs to sleep for
+  <If the program doesn't respond after you have pressed the start button, it's normal, because thie value is time that the program needs to sleep for>
 
   
 with/without key 'w' pressed:
