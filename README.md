@@ -36,8 +36,8 @@ Time before the macro starts(seconds):
   <If the program doesn't respond after you have pressed the start button, it's normal, because thie value is time that the program needs to sleep for>
 
   
-with/without key 'w' pressed:
-  If your farm needs you to farm with 'w' and other keys pressed at the same time, set this to true, otherwise just leave it false.
+press 'w':
+  If your farm needs you to farm with 'w' and other keys pressed at the same time, tick this, otherwise just leave it blank.
 
   
 Initial button/Button after lane changed:
