@@ -12,7 +12,7 @@ A Macro made for skyblock farming(basically auto farming tool).
 2.Open terminal and navigate to your working directory
 
 3.create virtual environment:
-  python3 -m venv env
+ python3 -m venv env
   
 4.activate virtual environment:
 For Windows:
