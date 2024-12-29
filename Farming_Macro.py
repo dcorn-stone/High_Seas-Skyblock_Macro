@@ -23,7 +23,6 @@ def start():
             if ib in letters and balc in letters:
                 if ci.isnumeric():
                     if tblc.isnumeric():
-                        print(w)
                         if w:
                             ag.keyDown("w")
                             ag.mouseDown()
