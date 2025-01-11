@@ -12,23 +12,23 @@ A Macro made for skyblock farming(basically auto farming tool).
 2.Open terminal and navigate to your working directory
 
 3.create virtual environment:
- python3 -m venv env
+ `python3 -m venv env`
   
 4.activate virtual environment:
 For Windows:
-  .\env\Scripts\activate
+  `.\env\Scripts\activate`
 For Mac/Linux:
-  source env/bin/activate
+  `source env/bin/activate`
   
 5.install dependencies:
-  pip install -r requirements.txt
+  `pip install -r requirements.txt`
 or
-  pip3 install -r requirements.txt
+  `pip3 install -r requirements.txt`
   
 6.The program is now ready to start, click on the Farming_Macro.py file to start it.
 
 7.After finished,type this command to deactivate the virtual environment:
-  deactivate
+  `deactivate`
   
 
 
